@@ -40,3 +40,24 @@ Fig5. Overview of the proposed RMAE framework.
 
 Fig13b. 2-D t-SNE embeddings of the representations learned by RMAE on the Salinas data set.
 
+## Result
+
+### Kennedy Space Center (KSC) Data Set
+
+The KSC data set classification results [OA: 97.50±1.12(%), AA: 96.71±1.24(%), Kappa: 0.9721±0.013] of RMAE using random 10 samples per-class for fine-tuning.
+
+### Houston University 2013 (HU2013) Data Set
+
+The HU2013 data set classification results [OA: 85.43±1.12(%), AA: 87.31±0.84(%), Kappa: 0.8425±0.012] of RMAE using random 10 samples per-class for fine-tuning.
+
+### HanChuan Data Set
+
+The HanChuan data set classification results [OA: 90.04±1.44(%), AA: 89.08±0.81(%), Kappa: 0.8842±0.017] of RMAE using random 10 samples per-class for fine-tuning.
+
+### Salinas Data Set
+
+The Salinas data set classification results [OA: 94.51±1.01(%), AA: 97.69±0.54(%), Kappa: 0.9391±0.011] of RMAE using random 10 samples per-class for fine-tuning.
+
+## Acknowledgement
+
+The authors would like to thank the Editor, Associate Editor, and anonymous reviewers for their helpful comments and suggestions that improved this article.
