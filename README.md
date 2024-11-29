@@ -1,7 +1,7 @@
 # RMAE
 Regularized Masked Auto-Encoder for Semi-Supervised Hyperspectral Image Classification
 
-Code download link: [CAL code](https://github.com/swiftest/RMAE/archive/refs/heads/main.zip).
+Code download link: [RMAE code](https://github.com/swiftest/RMAE/archive/refs/heads/main.zip).
 
 Here is the bibliography info:
 <br/>
@@ -27,3 +27,4 @@ Here is the bibliography info:
 ## Requirements:
 timm.__version__ == 0.4.5
 
+## Descriptions
