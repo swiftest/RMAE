@@ -28,3 +28,5 @@ Here is the bibliography info:
 timm.__version__ == 0.4.5
 
 ## Descriptions
+
+In this article, we present a regularized MAE (RMAE) to address the aforementioned problems. Specifically, within the framework of MAE, we introduce a self-designed induced Transformer block, using a small number of visible patches to learn the embeddings of patches with larger receptive fields. The learned embeddings are used to reconstruct the corresponding patches and an induced reconstruction loss is calculated. This strategy creates a much harder task for masked image modeling (MIM), and the induced Transformer block is lightweight and imposes negligible computational burden overhead the underlying MAE framework. Additionally, by rethinking the masking operations, we develop a masked convolutional neural network (MCNN), uncovering the principle of MAE and affirming the efficacy of RMAE. Finally, we present two metrics: the mean intra-class distance, and the mean inter-class distance. Based on the metrics we give two criteria to evaluate the performance of an SSRL model, providing new coordinate for the research in SSRL-based SHIC.
