@@ -15,7 +15,7 @@ Here is the bibliography info:
   volume={62},
   pages={1-21},
   doi={10.1109/TGRS.2024.3509720},  
-  publisher={IEEE},  
+  publisher={IEEE}
 }
 ```
 
