@@ -36,7 +36,7 @@ As the most prevalent self-supervised representation learning (SSRL) model, the 
 Fig5. Overview of the proposed RMAE framework.
 
 
-<img src="figure/tsne_rmae_salinas.png" width="180"/>
+<img src="figure/tsne_rmae_salinas.png" width="200"/>
 
 Fig13b. 2-D t-SNE embeddings of the representations learned by RMAE on the Salinas data set.
 
